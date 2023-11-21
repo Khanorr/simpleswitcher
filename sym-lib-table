@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "ESP32_NODEMCU")(type "KiCad")(uri "C:/Users/Daniel/Downloads/ESP32_NODEMCU/ESP32_NODEMCU.kicad_sym")(options "")(descr ""))
+  (lib (name "NC3MAAV")(type "KiCad")(uri "C:/Users/danie/Downloads/NC3MAAV/NC3MAAV.kicad_sym")(options "")(descr ""))
+  (lib (name "NC3FAAV2")(type "KiCad")(uri "C:/Users/danie/Downloads/NC3FAAV2/NC3FAAV2.kicad_sym")(options "")(descr ""))
 )
